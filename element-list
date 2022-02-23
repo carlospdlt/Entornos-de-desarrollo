@@ -1,0 +1,8 @@
+restaurantsystem
+restaurantsystem.component.auth
+restaurantsystem.component.billing
+restaurantsystem.component.item
+restaurantsystem.component.labour
+restaurantsystem.component.order
+restaurantsystem.model
+restaurantsystem.service
